@@ -22,5 +22,6 @@ module.exports = {
     '@typescript-eslint/comma-dangle': ['error', 'only-multiline'],
     semi: [2, 'always'],
     '@typescript-eslint/semi': 'off',
+    '@typescript-eslint/strict-boolean-expressions': 'off',
   },
 };
