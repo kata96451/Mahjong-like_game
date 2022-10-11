@@ -9,7 +9,7 @@ The objective of the game is to collect cards until no card is hidden.  User pic
   5. If two values do not match, both  become hidden after a second
   6. Game is considered finished after player has selected all the pairs of numbers
 
-- [DEMO LINK](https://kata96451.github.io/todo-app/)
+- [DEMO LINK](https://kata96451.github.io/Mahjong-like_game/)
 - [Design](https://www.figma.com/file/fJlnff7K5zhk71S9X4Etza/Lanars-test-task?node-id=0%3A1)
 
 Used technologies:
